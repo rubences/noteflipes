@@ -1,31 +1,26 @@
 # noteflipes
 
 Ejercicio 1 (1 punto) Tiempo estimado: 5 minutos. Responda a las cuestiones:
-La calificación máxima de esta parte tipo test es de 1 punto. Tenga en cuenta que:
-Para cada pregunta, sólo existe una respuesta correcta.
-Cada respuesta correcta sumará 0.10 puntos.
-Cada respuesta incorrecta restará 0.10 puntos.
-Las preguntas no contestadas ni suman ni restan puntuación.
 
 
 ¿Qué es la encapsulación en la programación orientada a objetos? 
 a) Es la capacidad de un objeto de tomar muchas formas. 
-b) Es el mecanismo que permite ocultar la información al exterior, controlando el acceso a los datos de un objeto.   
+# b) Es el mecanismo que permite ocultar la información al exterior, controlando el acceso a los datos de un objeto.   
 
 ¿Qué es el polimorfismo en programación orientada a objetos?
-a) La capacidad de una función de tomar múltiples formas, permitiendo que diferentes clases respondan a la misma interfaz.
+# a) La capacidad de una función de tomar múltiples formas, permitiendo que diferentes clases respondan a la misma interfaz.
 b) La capacidad de una clase de heredar métodos y propiedades de otra clase.
 
 ¿Cuál es el propósito de la función super() en una clase derivada?
-a) Llamar a un método de la clase base desde la clase derivada.
+# a) Llamar a un método de la clase base desde la clase derivada.
 b) Definir un método estático en la clase derivada.
 
 ¿Qué es una excepción? 
 a) Un error que ocurre durante la ejecución del programa. 
-b) Una situación anormal que puede ser manejada por el programa para evitar que se interrumpa su ejecución.
+# b) Una situación anormal que puede ser manejada por el programa para evitar que se interrumpa su ejecución.
 
 ¿Qué significa sobrescribir un método heredado en una clase derivada?
-a) Definir un nuevo método en la clase derivada con el mismo nombre y parámetros que un método en la clase base, reemplazando su comportamiento.
+# a) Definir un nuevo método en la clase derivada con el mismo nombre y parámetros que un método en la clase base, reemplazando su comportamiento.
 b) Utilizar el método super() para llamar al método de la clase base desde la clase derivada.
 
 Ejercicio 1 (1 punto) Tiempo estimado: 10 minutos. Dado del siguiente código	
