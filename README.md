@@ -23,11 +23,21 @@ a) Un error que ocurre durante la ejecución del programa.
 # a) Definir un nuevo método en la clase derivada con el mismo nombre y parámetros que un método en la clase base, reemplazando su comportamiento.
 b) Utilizar el método super() para llamar al método de la clase base desde la clase derivada.
 
+Ejercicio 2  (1 punto) Tiempo estimado: 10 minutos. Desarrolla una función recursiva que calcule la suma de los dígitos de un número entero positivo dado. No se permite convertir el número a una cadena de caracteres para resolver el problema.	
+
+Ejemplo de entrada y salida:
+Entrada: 573
+Salida: 15
+(Explicación: 5+7+3=15)
+
 Ejercicio 1 (1 punto) Tiempo estimado: 10 minutos. Dado del siguiente código	
 
 
 Describa la utilidad de las funciones recursivas “funct1” y “funct2”.
-
+Explicación
+funct1: Calcula cuántas veces b cabe en a restando b repetidamente de a hasta que a sea menor que b. Imprime "value 0" cuando a < b y retorna 0, sumando 1 por cada llamada recursiva.
+funct2: Resta b de a recursivamente hasta que a sea menor que b. Imprime el valor de a cuando a < b y retorna a.
+Ambas funciones utilizan recursión para descomponer el problema en subproblemas más pequeños, pero funct1 cuenta las iteraciones mientras que funct2 simplemente retorna el valor final de a.
 Responda el resultado que aparecerá por la línea de comandos:
 Resultado 1:
 Resultado 2:
